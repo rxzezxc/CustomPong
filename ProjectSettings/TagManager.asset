@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - END GAME
+  - BoundWall
+  - BreakableWall
+  - Ball
+  - PinballBall
+  - Bumper
+  - GAMEMANAGER
+  - PowerUp
+  - Laser
+  - MultiBall
+  - Ghost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bumps
+  - Side R
+  - Side L
+  - Obstacles
+  - PowerUps
+  - Walls
+  - Ball
+  - ParticleStopper
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Walls
+    uniqueID: 474840601
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
